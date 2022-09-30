@@ -3,7 +3,7 @@
 
 Step 1: Download the newest version of the game!
 
-<b><i>Newest Version: [he Infinite Echos in The Infinite Abyss Demo - v0.0.1](https://github.com/CleverFox64/Versions-of-The-Crystals/releases/tag/v0.0.5)</i></b>
+<b><i>Newest Version: [The Infinite Echos in The Infinite Abyss Demo - v0.0.1](https://github.com/CleverFox64/Versions-of-The-Crystals/releases/tag/v0.0.5)</i></b>
 
 Step 2: Wait until it's finished downloading... 🔃
 
