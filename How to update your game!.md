@@ -7,7 +7,7 @@ Step 1: Download the newest version of the game!
 
 Step 2: Wait until it's finished downloading... 🔃
 
-Step 3: Open the file and then drag it to <b>he Infinite Echos in The Infinite Abyss!</b> 📁
+Step 3: Open the file and then drag it to <b>The Infinite Echos in The Infinite Abyss!</b> 📁
 
 Step 4: Click <b>'Replace'</b> so it can update the other files!
 
