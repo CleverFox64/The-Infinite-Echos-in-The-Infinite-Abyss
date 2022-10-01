@@ -13,16 +13,16 @@ But remember to have fun! ☺
 
 <b><i>The game is still a working progress!</i></b>
 
-<b><i>Newest Version: [The Infinite Echos in The Infinite Abyss Demo - v0.0.1](https://github.com/CleverFox64/Versions-of-The-Crystals/releases/tag/v0.0.5)</i></b>
+<b><i>Newest Version: [The Infinite Echos in The Infinite Abyss ~ v0.0.1 (Demo)](https://github.com/CleverFox64/The-Infinite-Echos-in-The-Infinite-Abyss/releases/tag/v0.0.1)</i></b>
 
 # How to download my game!
 
-Step 1: To download the latest version of my game, go to the right side of this screen and click ["Releases" page.](https://github.com/CleverFox64/Versions-of-The-Crystals/releases)
+Step 1: To download the latest version of my game, go to the right side of this screen and click ["Releases" page.](https://github.com/CleverFox64/The-Infinite-Echos-in-The-Infinite-Abyss/releases)
 
 Step 2: Once you're on the "Releases" page scoll down on latset version and click "Assets"
 
 
-<b><i>Example: [The Infinite Echos in The Infinite Abyss v0.0.1](https://github.com/CleverFox64/Versions-of-The-Crystals/releases/tag/v0.0.5)</i></b>
+<b><i>Example: [The Infinite Echos in The Infinite Abyss ~ v0.0.1 (Demo)](https://github.com/CleverFox64/The-Infinite-Echos-in-The-Infinite-Abyss/releases/tag/v0.0.1)</i></b>
 
 Step 3: In the <b>Top Right corner</b>, there will be a symbol that looks like this <b>⬇</b> but with line under it. Click that, and, then my game should start downloading! 😊
 
