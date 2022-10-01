@@ -1,6 +1,15 @@
 # The Infinite Echos in The Infinite Abyss
 A Rogue-lite RPG turn-based Adventure! You'll collect items, weapons, different equipment, and a whole bunch of skills to make it out of the infinite Abyss! You'll also be able to do a whole bunch of achievement and quests as you get more powerful to make it out.
 
+Hey, player! It's me, the developer, James Branford!
+This is the Rough Draft Demo for the game. 
+So a lot of things will not be available.
+However, there are still many things you can do!
+
+Explore The Infinite Abyss, complete achievements & get stronger!
+You might be able to complete everything!!!
+But remember to have fun! ☺
+
 <b>This is where you can download different versions of my game!</b> 😊
 
 <b><i>The game is still a working progress!</i></b>
