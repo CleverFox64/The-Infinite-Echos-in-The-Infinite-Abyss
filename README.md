@@ -29,7 +29,7 @@ Step 3: In the <b>Top Right corner</b>, there will be a symbol that looks like t
 <b><i>Note: It might take a few minutes to download!</i></b>
 
 # The Infinite Echos in The Infinite Abyss Demo - Survey/Feedback Form!
-<b><i>[This is where you can fill out a survey or give me feedback about your experience in The Infinite Echos in The Infinite Abyss Demo](...)</i></b>
+<b><i>[This is where you can fill out a survey or give me feedback about your experience in The Infinite Echos in The Infinite Abyss Demo]()</i></b>
 
 # Report Bugs!
-<b><i>[Report Bugs for "The Infinite Echos in The Infinite Abyss" (My Game!)😊](...)</i></b>
+<b><i>[Report Bugs for "The Infinite Echos in The Infinite Abyss" (My Game!)😊]()</i></b>
