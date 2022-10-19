@@ -29,7 +29,7 @@ Step 3: In the <b>Top Right corner</b>, there will be a symbol that looks like t
 <b><i>Note: It might take a few minutes to download!</i></b>
 
 # Join the Discord!
-<b><i>[The Infinite Echo's in The Infinite Abyss ~ Discord Server](https://discord.gg/AeD7emunr2)<\i><\b>
+<b><i>[The Infinite Echo's in The Infinite Abyss ~ Discord Server](https://discord.gg/AeD7emunr2)</i></b>
 
 # The Infinite Echo's in The Infinite Abyss Demo - Survey/Feedback Form!
 <b><i>[This is where you can fill out a survey or give me feedback about your experience in The Infinite Echo's in The Infinite Abyss Demo 
