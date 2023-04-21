@@ -17,7 +17,7 @@ But remember to have fun! ☺
 
 # How to download my game!
 
-## Step 1: To download the latest version of my game, go to the right side of this screen and click ["Releases" page.](https://github.com/CleverFox64/The-Infinite-Echos-in-The-Infinite-Abyss/releases)
+### Step 1: To download the latest version of my game, go to the right side of this screen and click ["Releases" page.](https://github.com/CleverFox64/The-Infinite-Echos-in-The-Infinite-Abyss/releases)
 
 ![Github Releases](https://user-images.githubusercontent.com/53161647/233537177-dd209a75-3c65-4146-9296-652163615a06.JPG)
 
