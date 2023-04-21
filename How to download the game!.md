@@ -23,4 +23,4 @@
 
 ### Step 5: Open the folder, then click the game to start playing! 😊
 
-![The Infinite Echo's in The Infinite Abyss02](https://user-images.githubusercontent.com/53161647/233540289-64f57a07-8363-47b0-b6b0-577b18d09aaa.png)
+![The Infinite Echos in The Infinite Abyss](https://user-images.githubusercontent.com/53161647/233540691-73a711c2-5055-442f-8fcd-68577ca394c0.JPG)
