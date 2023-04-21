@@ -33,11 +33,13 @@ Step 3:  Click on the title version of the game to start downloading it.
 
 Step 4: Once it's finished downloading, extract the zip file anywhere you like.
 <b><i>(Note: It might take a few minutes to download!)</i></b>
+
 ![Github Extract](https://user-images.githubusercontent.com/53161647/233540160-5d8a0b67-14e7-4e70-8756-31f5f118282f.JPG)
 
 ![Github Game](https://user-images.githubusercontent.com/53161647/233540185-d5ae05ea-dcd8-436c-b8ff-5cbfbc2fc12d.JPG)
 
 Step 5: Open the folder, then click the game to start playing! 😊
+
 ![The Infinite Echo's in The Infinite Abyss02](https://user-images.githubusercontent.com/53161647/233540289-64f57a07-8363-47b0-b6b0-577b18d09aaa.png)
 
 # Join the Discord!
