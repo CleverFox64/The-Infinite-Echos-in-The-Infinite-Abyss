@@ -29,8 +29,7 @@ Step 3:  Click on the title version of the game to start downloading it.
 ![Github Title Version of Game](https://user-images.githubusercontent.com/53161647/233538144-2d50729a-ecfc-4389-a263-786546fe07ea.JPG)
 
 Step 4: Once it's finished downloading, extract the zip file anywhere you like.
-
-<b><i>Note: It might take a few minutes to download!</i></b>
+<n><b><i>Note: It might take a few minutes to download!</i></b>
 
 Step 5: Open the folder, then click the game to start playing! 😊
 
