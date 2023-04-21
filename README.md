@@ -25,9 +25,13 @@ Step 2: Once you're on the "Releases" page, scroll down on the latest version an
 
 <b><i>Example: [The Infinite Echo's in The Infinite Abyss ~ v0.0.3h (Demo)](https://github.com/CleverFox64/The-Infinite-Echos-in-The-Infinite-Abyss/releases/tag/v0.0.3h)</i></b>
 
-Step 3: In the <b>Top Right corner</b>, there will be a symbol that looks like this <b>⬇</b> but with line under it. Click that, and, then my game should start downloading! 😊
+Step 3:  Click on the title version of the game to start downloading it.
+![Github Title Version of Game](https://user-images.githubusercontent.com/53161647/233538144-2d50729a-ecfc-4389-a263-786546fe07ea.JPG)
 
+Step 4: Once it's finished downloading, extract the zip file anywhere you like.
 <b><i>Note: It might take a few minutes to download!</i></b>
+
+Step 5: Open the folder, then click the game to start playing! 😊
 
 # Join the Discord!
 <b><i>[The Infinite Echo's in The Infinite Abyss ~ Discord Server 🟣](https://discord.gg/AeD7emunr2)</i></b>
