@@ -20,7 +20,7 @@ But remember to have fun! ☺
 Step 1: To download the latest version of my game, go to the right side of this screen and click ["Releases" page.](https://github.com/CleverFox64/The-Infinite-Echos-in-The-Infinite-Abyss/releases)
 ![Github Releases](https://user-images.githubusercontent.com/53161647/233537177-dd209a75-3c65-4146-9296-652163615a06.JPG)
 
-Step 2: Once you're on the "Releases" page scoll down on latset version and click "Assets."
+Step 2: Once you're on the "Releases" page, scroll down on the latest version and click "Assets."
 ![Github Assets (2)](https://user-images.githubusercontent.com/53161647/233537074-64dfd2f6-3094-4ef6-b35d-8d09978279b3.JPG)
 
 <b><i>Example: [The Infinite Echo's in The Infinite Abyss ~ v0.0.3h (Demo)](https://github.com/CleverFox64/The-Infinite-Echos-in-The-Infinite-Abyss/releases/tag/v0.0.3h)</i></b>
